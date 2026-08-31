@@ -48,7 +48,11 @@ function SearchClubs({ query, setQuery }) {
 
         <input
           type="text"
+<<<<<<< HEAD
           placeholder="Search by hobby, category or club name..."
+=======
+          placeholder="Try 'singing', 'bhangra', 'coding'..."
+>>>>>>> a1b0e90b99c908ab98f56abb371ddca1bb92866f
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
