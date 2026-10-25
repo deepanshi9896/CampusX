@@ -1,5 +1,5 @@
 /* ---------------------------------------------------------
-   CampusX — global design tokens
+CampusX — global design tokens
 --------------------------------------------------------- */
 :root {
   --bg: #101018;
@@ -65,7 +65,7 @@ img {
 }
 
 /* ---------------------------------------------------------
-   Navbar
+Navbar
 --------------------------------------------------------- */
 .navbar {
   position: sticky;
@@ -159,7 +159,7 @@ button.navbar-link {
 }
 
 /* ---------------------------------------------------------
-   Hero
+Hero
 --------------------------------------------------------- */
 .hero {
   position: relative;
@@ -248,7 +248,7 @@ button.navbar-link {
 }
 
 /* ---------------------------------------------------------
-   Find-a-club search section
+Find-a-club search section
 --------------------------------------------------------- */
 .finder {
   padding: 72px 0 40px;
@@ -329,7 +329,7 @@ button.navbar-link {
 }
 
 /* ---------------------------------------------------------
-   Explore Clubs
+Explore Clubs
 --------------------------------------------------------- */
 .explore {
   padding: 40px 0 96px;
@@ -384,7 +384,7 @@ button.navbar-link {
 }
 
 /* ---------------------------------------------------------
-   Club Card
+Club Card
 --------------------------------------------------------- */
 .club-card {
   background: var(--card);
@@ -517,7 +517,7 @@ button.navbar-link {
 }
 
 /* ---------------------------------------------------------
-   Club detail modal
+Club detail modal
 --------------------------------------------------------- */
 .modal-overlay {
   position: fixed;
@@ -620,7 +620,7 @@ button.navbar-link {
 }
 
 /* ---------------------------------------------------------
-   Events page
+Events page
 --------------------------------------------------------- */
 .events-page {
   padding: 56px 0 96px;
@@ -747,7 +747,7 @@ button.navbar-link {
 }
 
 /* ---------------------------------------------------------
-   Footer
+Footer
 --------------------------------------------------------- */
 .footer {
   margin-top: auto;
@@ -902,6 +902,7 @@ button.navbar-link {
 
 .footer .navbar-logo {
   margin-bottom: 15px;
+
 }
 /* Account and club approval workflow */
 .logo-button { border: 0; background: transparent; color: inherit; padding: 0; cursor: pointer; }
