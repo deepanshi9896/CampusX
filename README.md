@@ -1,6 +1,6 @@
 # CampusX — Student Clubs Directory
 
-A React (Vite + React Router) project for discovering campus clubs and upcoming events.
+A React (Vite + React Router) project for browsing campus clubs and events.
 
 ## Run it in VS Code
 
@@ -45,3 +45,11 @@ src/
 - Searching "dance" (or any tag) filters the club grid live.
 - Club/event photos are placeholder Unsplash images — swap the `image`
   URLs in `src/data/clubs.js` / `src/data/events.js` with your own.
+
+## Emails
+
+Emails are sent with EmailJS. Copy `.env.example` to `.env` and fill in your
+EmailJS service id, template id and public key. The template should use the
+variables `{{to_email}}`, `{{subject}}` and `{{message}}`.
+Without these keys the app still works and records every email in the
+"Email activity" list on the admin dashboard.

@@ -149,7 +149,7 @@ function Footer() {
         {/* FOOTER BOTTOM */}
         <div className="footer-bottom">
           <span>
-            © 2026 CampusX. Built for the campus community.
+            © 2026 Chitkara University. All rights reserved.
           </span>
 
           <div className="footer-bottom-links">

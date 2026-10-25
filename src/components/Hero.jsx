@@ -9,13 +9,13 @@ function Hero() {
       />
       <div className="hero-overlay"></div>
       <div className="hero-content">
-        <span className="hero-tag">✦ DISCOVER YOUR CAMPUS</span>
+        <span className="hero-tag">✦ LIVE THIS WEEK</span>
         <h1 className="hero-title">
-          FIND YOUR CREW, <span>FIND YOUR CLUBS.</span>
+          DJ NIGHTS, <span>JAMMING, EXHIBITIONS.</span>
         </h1>
         <p className="hero-desc">
-          Discover clubs, meet new people, and find events that match your
-          interests.
+          Events are happening across campus almost every week — see what's
+          next.
         </p>
       </div>
     </section>

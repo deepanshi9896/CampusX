@@ -9,7 +9,7 @@ const clubs = [
       "Punjab's own high-energy Bhangra crew, representing Chitkara at inter-university fests and competitions.",
     tags: ["bhangra", "dance", "punjabi", "folk"],
     image:
-      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=700&q=80",
+      "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=700&q=80",
   },
   {
     id: "lethal-giddha-squad",
@@ -20,7 +20,7 @@ const clubs = [
       "The Giddha crew — celebrating Punjabi folk dance with rhythm, colour and boliyan at every cultural night.",
     tags: ["giddha", "dance", "punjabi", "folk"],
     image:
-      "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=700&q=80",
+      "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=700&q=80",
   },
   {
     id: "toastmasters",
